@@ -6,12 +6,6 @@ A cinematic, responsive landing page built with **React.js**, featuring smooth *
 
 ---
 
-## 📽️ Demo
-
-https://user-uploads-preview.mp4 *(Replace with YouTube, GitHub release link, or Netlify/Vercel URL if deployed)*
-
----
-
 ## 🚀 Features
 
 - 🎬 **Animated Intro Sequence** using GSAP timeline control
