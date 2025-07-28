@@ -33,6 +33,13 @@ https://user-uploads-preview.mp4 *(Replace with YouTube, GitHub release link, or
 
 ---
 
-## 📂 Folder Structure
+## 👨‍💻 Author
+
+Jiya Jindal
+Frontend Developer | Creative Technologist
+LinkedIn (www.linkedin.com/in/jiyajindal)
+
+If you're a recruiter, tech lead, or creative dev looking for collaboration in high-impact frontend experiences — feel free to reach out!
+#ReactJS #GSAP #SVGAnimation #GTAInspired #FrontendDev #CreativeUI #WebDesign #OpenSource
 
 
